@@ -1,0 +1,15 @@
+body{
+  margin-top: 150px;
+  margin-left: 150px;
+}
+.btn{
+  background-color: teal;
+  color: whitesmoke;
+  padding: .5rem 1rem;
+  border: 0;
+  cursor: pointer;
+  
+}
+.btn:hover{
+  background-color: darkolivegreen;
+}
