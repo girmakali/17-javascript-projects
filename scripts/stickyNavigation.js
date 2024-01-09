@@ -7,7 +7,7 @@ window.addEventListener('scroll', ()=>{
   const scrollPosition = window.scrollY;
   navElement.style.top = scrollPosition + 'px'
 
-  navBarLinks.forEach(link =>{
-    
-  })
+  
+
+  
 })
