@@ -2,6 +2,7 @@ main{
   display: flex;
   width: 400px;
   margin: 0;
+  
 }
 nav{
   position: relative;

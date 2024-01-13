@@ -9,8 +9,7 @@ window.addEventListener('scroll', ()=>{
 
   navBarLinks.forEach((link,i) =>{
     const sectionElement =document.getElementById(`section${i}`)
-    console.log(i)
-    
+ 
     if(scrollPosition >= sectionElement.offsetTop && scrollPosition <  sectionElement.offsetTop + sectionElement.offsetHeight){
       link.classList.add('active')
     }
