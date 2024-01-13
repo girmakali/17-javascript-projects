@@ -1,0 +1,27 @@
+main{
+  width: 400px;
+  margin: 0 auto;
+}
+nav{
+  width: 100%;
+  border-bottom: 1px solid grey;
+}
+button{
+  font-size: 1.2rem;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(6, 71, 71);
+  color: white;
+  font-weight: bold;
+}
+li{
+  font-size: 1.3rem;
+  padding: .5rem;
+  border: 1px solid grey;
+  border-radius: .5rem;
+}
+#hide{
+  display: none;
+}
