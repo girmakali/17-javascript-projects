@@ -1,4 +1,4 @@
-let buttons = document.querySelectorAll('button');
+let buttons = document.querySelectorAll('.button');
 let articlee = document.getElementById('articles');
 
 buttons.forEach((click , i) =>{ 
